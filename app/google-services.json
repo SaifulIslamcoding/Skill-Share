@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132019910901",
+    "firebase_url": "https://skill-sharing-eed1f-default-rtdb.firebaseio.com",
+    "project_id": "skill-sharing-eed1f",
+    "storage_bucket": "skill-sharing-eed1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132019910901:android:fe0f582a7ef056f5966dbc",
+        "android_client_info": {
+          "package_name": "com.example.skill_sharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132019910901-hhitnd7dup4qp5b651r048rhdg4ae7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIuWhPItSZ2_SNCiqowACiW46l8NFf19A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132019910901-hhitnd7dup4qp5b651r048rhdg4ae7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
