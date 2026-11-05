@@ -42,7 +42,6 @@
             android:inputType="textPassword"
             android:hint="Password"
             android:drawablePadding="5dp"
-            android:textColor="@color/material_dynamic_neutral0"
             />
 
         <Button
